@@ -1,0 +1,315 @@
+﻿#EXTM3U
+ 
+#EXTINF:-1,DE-Sky_Atlantic
+http://camerta.com:8000/live/44908/44908/182.ts
+#EXTINF:-1,DE-Sky_Comedy
+http://camerta.com:8000/live/44908/44908/1156.ts
+#EXTINF:-1,DE-Sky_select
+http://camerta.com:8000/live/44908/44908/1479.ts
+#EXTINF:-1,DE-Sat1_Gold
+http://camerta.com:8000/live/44908/44908/186.ts
+#EXTINF:-1,DE-Sky_Cinema
+http://camerta.com:8000/live/44908/44908/184.ts
+#EXTINF:-1,DE-Sky_Cinema+
+http://camerta.com:8000/live/44908/44908/185.ts
+#EXTINF:-1,DE-Sky_action
+http://camerta.com:8000/live/44908/44908/181.ts
+#EXTINF:-1,DE-SyFy
+http://camerta.com:8000/live/44908/44908/192.ts
+#EXTINF:-1,DE- FOX HD
+http://camerta.com:8000/live/44908/44908/557.ts
+#EXTINF:-1,DE-MGM_Germany
+http://camerta.com:8000/live/44908/44908/177.ts
+#EXTINF:-1,DE-Sky_13th_Street
+http://camerta.com:8000/live/44908/44908/179.ts
+#EXTINF:-1,DE-Folx_Music
+http://camerta.com:8000/live/44908/44908/928.ts
+#EXTINF:-1,DE-SAT1
+http://camerta.com:8000/live/44908/44908/797.ts
+#EXTINF:-1,DE-VOX
+http://camerta.com:8000/live/44908/44908/800.ts
+#EXTINF:-1,DE-RTL
+http://camerta.com:8000/live/44908/44908/795.ts
+#EXTINF:-1,DE-ORF2
+http://camerta.com:8000/live/44908/44908/915.ts
+#EXTINF:-1,DE-Super_RTL
+http://camerta.com:8000/live/44908/44908/906.ts
+#EXTINF:-1,DE-RTL2_HD
+http://camerta.com:8000/live/44908/44908/917.ts
+#EXTINF:-1,DE-PROSIEBEN
+http://camerta.com:8000/live/44908/44908/796.ts
+#EXTINF:-1,DE-KABEL_EINS
+http://camerta.com:8000/live/44908/44908/794.ts
+#EXTINF:-1,DE-Sky_Sixx
+http://camerta.com:8000/live/44908/44908/1153.ts
+#EXTINF:-1,DE-Sky_Sport1_HD
+http://camerta.com:8000/live/44908/44908/189.ts
+#EXTINF:-1,DE-Sky_Sport_2
+http://camerta.com:8000/live/44908/44908/190.ts
+#EXTINF:-1,DE-Sky_Bundesliga1 wwww.wsat4.com
+http://camerta.com:8000/live/44908/44908/183.ts
+#EXTINF:-1,DE-ORF_Sport_plus
+http://camerta.com:8000/live/44908/44908/1913.ts
+#EXTINF:-1,DE-Sky_Sport_News
+http://camerta.com:8000/live/44908/44908/191.ts
+#EXTINF:-1,DE-N24_HD
+http://camerta.com:8000/live/44908/44908/902.ts
+#EXTINF:-1,DE-Europe_news
+http://camerta.com:8000/live/44908/44908/925.ts
+#EXTINF:-1,DE-Tagesschau24
+http://camerta.com:8000/live/44908/44908/905.ts
+#EXTINF:-1,DE-Kika_HD
+http://camerta.com:8000/live/44908/44908/922.ts
+#EXTINF:-1,DE-Disney_Cinemagic
+http://camerta.com:8000/live/44908/44908/901.ts
+#EXTINF:-1,DE-RTL Nitro
+http://camerta.com:8000/live/44908/44908/1487.ts
+#EXTINF:-1,DE-Kabel_1
+http://camerta.com:8000/live/44908/44908/1166.ts
+#EXTINF:-1,DE-Discovery_Channel
+http://camerta.com:8000/live/44908/44908/174.ts
+#EXTINF:-1,DE-NatGeo_CH wwww.wsat4.com
+http://camerta.com:8000/live/44908/44908/178.ts
+#EXTINF:-1,De-History_HD
+http://camerta.com:8000/live/44908/44908/1486.ts
+#EXTINF:-1,DE-Famliy
+http://camerta.com:8000/live/44908/44908/927.ts
+#EXTINF:-1,DE-TNT_Serie_HD
+http://camerta.com:8000/live/44908/44908/1477.ts
+#EXTINF:-1,Sky Cinema HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11959.ts
+#EXTINF:-1,Sky Cinema 24 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11958.ts
+#EXTINF:-1,Sky Hits
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11955.ts
+#EXTINF:-1,Sky Action
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11965.ts
+#EXTINF:-1,Sky Comedy
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11957.ts
+#EXTINF:-1,Sky Emotion
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11956.ts
+#EXTINF:-1,Sky MGM
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11970.ts
+#EXTINF:-1,Sky Atlantic
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11964.ts
+#EXTINF:-1,Sky 13th Street
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11981.ts
+#EXTINF:-1,Sky Fox Serie
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11975.ts
+#EXTINF:-1,Sky TNT Serie
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11947.ts
+#EXTINF:-1,Sky TNT Film
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13847.ts
+#EXTINF:-1,Sky Krimi
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11954.ts
+#EXTINF:-1,Sky Nostalgie
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11953.ts
+#EXTINF:-1,Sky Syfy
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11948.ts
+#EXTINF:-1,Sky AXN
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8746.ts
+#EXTINF:-1,Sky NatGeo Wild
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11968.ts
+#EXTINF:-1,Sky National Geographic HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13825.ts
+#EXTINF:-1,Sky Discovery Channel
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11980.ts
+#EXTINF:-1,Sky Spiegel Geschichte
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11949.ts
+#EXTINF:-1,Spiegel Geschichte HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13859.ts
+#EXTINF:-1,Goldstar TV
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11974.ts
+#EXTINF:-1,Heimatkanal
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11973.ts
+#EXTINF:-1,Euronews Deutschland
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13523.ts
+#EXTINF:-1,Jukebox
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11972.ts
+#EXTINF:-1,MTV Hits
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/14193.ts
+#EXTINF:-1,MTV Dance
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/14192.ts
+#EXTINF:-1, wwww.wsat4.com
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13849.ts
+#EXTINF:-1,Sky Junior
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11971.ts
+#EXTINF:-1,Disney Cinemagic
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11979.ts
+#EXTINF:-1,Disney Junior
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11978.ts
+#EXTINF:-1,Disney XD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11977.ts
+#EXTINF:-1, wwww.wsat4.com…
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13850.ts
+#EXTINF:-1,Sky Sport News
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11945.ts
+#EXTINF:-1,Sportdigital HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11946.ts
+#EXTINF:-1,Sky Sport Austria
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11950.ts
+#EXTINF:-1,Motorvision TV
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11969.ts
+#EXTINF:-1,Eurosport 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11976.ts
+#EXTINF:-1,Eurosport 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13335.ts
+#EXTINF:-1,Sky Sport 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11952.ts
+#EXTINF:-1,Sky Sport 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11951.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13846.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13845.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13844.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11963.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13826.ts
+#EXTINF:-1,Sky Select 1 HD wwww.wsat4.com
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8783.ts
+#EXTINF:-1,Sky Select 2 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8766.ts
+#EXTINF:-1,Sky Select 3 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8767.ts
+#EXTINF:-1,Sky Select 4 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8768.ts
+#EXTINF:-1,Sky Select 5 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8785.ts
+#EXTINF:-1,Sky Select 6 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8769.ts
+#EXTINF:-1,TELECLUB CINEMA HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13824.ts
+#EXTINF:-1,TELECLUB STAR HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13819.ts
+#EXTINF:-1,TELECLUB PRIME HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13823.ts
+#EXTINF:-1,TELECLUB SKY SPORT 1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13822.ts
+#EXTINF:-1,TELECLUB SKY SPORT 2 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13821.ts
+#EXTINF:-1,TELECLUB SKY SPORT 3 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13820.ts
+#EXTINF:-1,Teleclub Cinema
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8074.ts
+#EXTINF:-1,Teleclub Star
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8069.ts
+#EXTINF:-1,Teleclub Prime
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8073.ts
+#EXTINF:-1,Teleclub Sport 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8072.ts
+#EXTINF:-1,Teleclub Sport 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8071.ts
+#EXTINF:-1,Teleclub Sport 3
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8070.ts
+#EXTINF:-1,Teleclub Sky Sport 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13727.ts
+#EXTINF:-1,Teleclub Sky Bundesliga 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13728.ts
+#EXTINF:-1,SRF 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8078.ts
+#EXTINF:-1,SRF 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8077.ts
+#EXTINF:-1,RSI LA 1
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8082.ts
+#EXTINF:-1,RSI LA 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8081.ts
+#EXTINF:-1,RTS UN
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8079.ts
+#EXTINF:-1,RTS DEUX
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8080.ts
+#EXTINF:-1,3+
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13733.ts
+#EXTINF:-1,Tele Zueri
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8091.ts
+#EXTINF:-1,Tele Basel
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8099.ts
+#EXTINF:-1,Telebaern
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8100.ts
+#EXTINF:-1,WEO Sport
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1895.ts
+#EXTINF:-1,LA TELE
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1893.ts
+#EXTINF:-1,BFM LIVE FR
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1891.ts
+#EXTINF:-1,EURONEWS
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1890.ts
+#EXTINF:-1,ARTE FR
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1888.ts
+#EXTINF:-1,Eurosport FR
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/1892.ts
+#EXTINF:-1,RTL
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11967.ts
+#EXTINF:-1,RTL 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8772.ts
+#EXTINF:-1,RTL Nitro
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8799.ts
+#EXTINF:-1,RTL Passion
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11966.ts
+#EXTINF:-1,RTL Crime
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13866.ts
+#EXTINF:-1,RTL Living
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13864.ts
+#EXTINF:-1,Super rtl
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8821.ts
+#EXTINF:-1,PRO 7 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8841.ts
+#EXTINF:-1,PRO 7 FUN HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13321.ts
+#EXTINF:-1,PRO 7 MAXX
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13320.ts
+#EXTINF:-1,Sat.1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13857.ts
+#EXTINF:-1,SAT 1 GOLD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13319.ts
+#EXTINF:-1,Kabel 1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8777.ts
+#EXTINF:-1,ORF 1 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8778.ts
+#EXTINF:-1,ORF 2
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8774.ts
+#EXTINF:-1,VOX HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8764.ts
+#EXTINF:-1,DMAX HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13771.ts
+#EXTINF:-1,UNIVERSAL HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13317.ts
+#EXTINF:-1,SIXX
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/11399.ts
+#EXTINF:-1,ANIXE HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13872.ts
+#EXTINF:-1,Phoenix
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13871.ts
+#EXTINF:-1,FOX HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13865.ts
+#EXTINF:-1,Blizz HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13868.ts
+#EXTINF:-1,BOOMERANG
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13322.ts
+#EXTINF:-1,KIKA
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8775.ts
+#EXTINF:-1,Deluxe Music HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13860.ts
+#EXTINF:-1,Sony TV HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13858.ts
+#EXTINF:-1,Austria 24
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13856.ts
+#EXTINF:-1,ZDF HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8822.ts
+#EXTINF:-1,DAS ERSTE
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8808.ts
+#EXTINF:-1,ARD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8782.ts
+#EXTINF:-1,MDR HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13869.ts
+#EXTINF:-1,N24 HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/8834.ts
+#EXTINF:-1,SWR HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13863.ts
+#EXTINF:-1,WDR HD
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13862.ts
+#EXTINF:-1,ZDF Neo
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/13861.ts
+

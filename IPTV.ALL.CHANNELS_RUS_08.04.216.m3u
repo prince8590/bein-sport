@@ -1,0 +1,253 @@
+﻿#EXTM3U
+#EXTINF:-1,M1
+http://185.64.47.125:8000/play/a003
+#EXTINF:-1,Novy Channel
+http://185.64.47.125:8000/play/a001
+#EXTINF:-1,KIEV STB
+http://185.64.47.125:8000/play/a002
+#EXTINF:-1,Plus Plus
+http://185.64.47.125:8000/play/a007
+#EXTINF:-1,ATR
+http://185.64.47.125:8000/play/a00e
+#EXTINF:-1,ICTV
+http://185.64.47.125:8000/play/a004
+#EXTINF:-1,5 ????? ???????
+http://185.64.47.125:8000/play/a00d
+#EXTINF:-1,Tonis
+http://185.64.47.125:8000/play/a008
+#EXTINF:-1,RTI
+http://185.64.47.125:8000/play/a00n
+#EXTINF:-1,MILADY TELEVISION
+http://185.64.47.125:8000/play/a00j
+#EXTINF:-1,1+1
+http://185.64.47.125:8000/play/a00l
+#EXTINF:-1,?????? UA
+http://185.64.47.125:8000/play/a00p
+#EXTINF:-1,OTV
+http://185.64.47.125:8000/play/a00i
+#EXTINF:-1,????????
+http://185.64.47.125:8000/play/a00o
+#EXTINF:-1,?????
+http://185.64.47.125:8000/play/a00k
+#EXTINF:-1,M2
+http://185.64.47.125:8000/play/a005
+#EXTINF:-1,News 24
+http://185.64.47.125:8000/play/a00m
+#EXTINF:-1,QTV
+http://185.64.47.125:8000/play/a00h
+#EXTINF:-1,NewsNetwork
+http://185.64.47.125:8000/play/a00b
+#EXTINF:-1,Lale
+http://185.64.47.125:8000/play/a00f
+#EXTINF:-1,????? ??
+http://185.64.47.125:8000/play/a00g
+#EXTINF:-1,UBR
+http://185.64.47.125:8000/play/a00a
+#EXTINF:-1,Kiev TV
+http://185.64.47.125:8000/play/a006
+#EXTINF:-1,3S.TV Savik Shuster
+http://185.64.47.125:8000/play/a009
+#EXTINF:-1,??????
+http://185.64.47.125:8000/play/a00c
+#EXTINF:-1,tv1000
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/101/index.m3u8
+#EXTINF:-1,nostalgia
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/102/index.m3u8
+#EXTINF:-1,ctc love
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/103/index.m3u8
+#EXTINF:-1,tht-4
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/104/index.m3u8
+#EXTINF:-1,s-tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/105/index.m3u8
+#EXTINF:-1,nevs tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/106/index.m3u8
+#EXTINF:-1,nas sport
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/107/index.m3u8
+#EXTINF:-1,tiji
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/108/index.m3u8
+#EXTINF:-1,gulli
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/109/index.m3u8
+#EXTINF:-1,sony scifi
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/110/index.m3u8
+#EXTINF:-1,n
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/111/index.m3u8
+#EXTINF:-1,5
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/112/index.m3u8
+#EXTINF:-1,mir
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/113/index.m3u8
+#EXTINF:-1,nick jr
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/114/index.m3u8
+#EXTINF:-1,europa plus
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/115/index.m3u8
+#EXTINF:-1,muzik tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/116/index.m3u8
+#EXTINF:-1,tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/117/index.m3u8
+#EXTINF:-1,h2.0
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/118/index.m3u8
+#EXTINF:-1,outodor tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/119/index.m3u8
+#EXTINF:-1,rusong tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/120/index.m3u8
+#EXTINF:-1,cer
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/121/index.m3u8
+#EXTINF:-1,bridce tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/122/index.m3u8
+#EXTINF:-1,planeta
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/123/index.m3u8
+#EXTINF:-1,futbol 1
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/124/index.m3u8
+#EXTINF:-1,premiera tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/125/index.m3u8
+#EXTINF:-1,nase kino
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/126/index.m3u8
+#EXTINF:-1,1
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/127/index.m3u8
+#EXTINF:-1,tv4
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/128/index.m3u8
+#EXTINF:-1,ani
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/129/index.m3u8
+#EXTINF:-1,travel
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/130/index.m3u8
+#EXTINF:-1, tv 1000 action
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/131/index.m3u8
+#EXTINF:-1,tv1000
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/132/index.m3u8
+#EXTINF:-1,wild
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/133/index.m3u8
+#EXTINF:-1,geografic
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/134/index.m3u8
+#EXTINF:-1,tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/135/index.m3u8
+#EXTINF:-1,sc discoveri
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/136/index.m3u8
+#EXTINF:-1,animal planet
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/137/index.m3u8
+#EXTINF:-1,jim jam
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/138/index.m3u8
+#EXTINF:-1,id extra
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/139/index.m3u8
+#EXTINF:-1,discoveri
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/140/index.m3u8
+#EXTINF:-1,eurosport1
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/141/index.m3u8
+#EXTINF:-1,mtv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/142/index.m3u8
+#EXTINF:-1,cn
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/143/index.m3u8
+#EXTINF:-1,extra sport
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/144/index.m3u8
+#EXTINF:-1,komedia
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/145/index.m3u8
+#EXTINF:-1,acion tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/146/index.m3u8
+#EXTINF:-1,RussianNight +18
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/147/index.m3u8
+#EXTINF:-1,mnogo tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/148/index.m3u8
+#EXTINF:-1,box
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/150/index.m3u8
+#EXTINF:-1,auto tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/151/index.m3u8
+#EXTINF:-1,kuchna tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/152/index.m3u8
+#EXTINF:-1,mtv hits
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/153/index.m3u8
+#EXTINF:-1,dom kino
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/154/index.m3u8
+#EXTINF:-1,muzika
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/155/index.m3u8
+#EXTINF:-1,karicel tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/156/index.m3u8
+#EXTINF:-1,comedy
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/157/index.m3u8
+#EXTINF:-1,tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/158/index.m3u8
+#EXTINF:-1,tv
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/159/index.m3u8
+#EXTINF:-1,visat sport
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/160/index.m3u8
+#EXTINF:-1,visat nature
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/161/index.m3u8
+#EXTINF:-1,visat histori
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/162/index.m3u8
+#EXTINF:-1,visat expoler
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/163/index.m3u8
+#EXTINF:-1,m-kino
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/164/index.m3u8
+#EXTINF:-1,comedy tv 1000 hd
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/200/index.m3u8
+#EXTINF:-1,megahit tv 1000 hd
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/201/index.m3u8
+#EXTINF:-1,premium tv1000 hd
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/202/index.m3u8
+#EXTINF:-1,visat histori hd
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/203/index.m3u8
+#EXTINF:-1,kone-mir hd
+http://62.210.251.159/iptv/AZAZZ72ELRUM5G/214/index.m3u8
+#EXTINF:-1,TVXXI
+http://163.172.19.214:8889/play/a007
+#EXTINF:-1,ViasatGolf
+http://163.172.19.214:8889/play/a05s
+#EXTINF:-1,RusongTV
+http://163.172.19.214:8889/play/a04l
+#EXTINF:-1,GEORGE-Dolce-sport4
+http://163.172.19.214:8889/play/a06c
+#EXTINF:-1,Boets
+http://163.172.19.214:8889/play/a05t
+#EXTINF:-1,DisneyCHANNEL+
+http://163.172.19.214:8889/play/a01t
+#EXTINF:-1,TV1000-RUSKOJE
+http://163.172.19.214:8889/play/a03p
+#EXTINF:-1,Psikhologiya21
+http://163.172.19.214:8889/play/a05n
+#EXTINF:-1,REALLY
+http://163.172.19.214:8889/play/a042
+#EXTINF:-1,DisneyCHANNEL
+http://163.172.19.214:8889/play/a01q
+#EXTINF:-1,NickelodeonEU
+http://163.172.19.214:8889/play/a035
+#EXTINF:-1,LNK
+http://163.172.19.214:8889/play/a02y
+#EXTINF:-1,TEO-NatGeo-HD
+http://163.172.19.214:8889/play/a06k
+#EXTINF:-1,AmediaPremiumHD
+http://163.172.19.214:8889/play/a03g
+#EXTINF:-1,VIASAT-NATURE
+http://163.172.19.214:8889/play/a03s
+#EXTINF:-1,SM-Comedy
+http://163.172.19.214:8889/play/a02d
+#EXTINF:-1,ParamountComedyRussia
+http://163.172.19.214:8889/play/a05j
+#EXTINF:-1,SM-Premiere
+http://163.172.19.214:8889/play/a02i
+#EXTINF:-1,MUTV
+http://163.172.19.214:8889/play/a023
+#EXTINF:-1,DisneyJUNIOR+
+http://163.172.19.214:8889/play/a01u
+#EXTINF:-1,ALIBI
+http://163.172.19.214:8889/play/a040
+#EXTINF:-1,RusskajaNoch
+http://163.172.19.214:8889/play/a04q
+#EXTINF:-1,Rossiya1
+http://163.172.19.214:8889/play/a04u
+#EXTINF:-1,ComedyCENTRAL
+http://163.172.19.214:8889/play/a00q
+#EXTINF:-1,perviy-HD
+http://163.172.19.214:8889/play/a00u
+#EXTINF:-1,KomediaTV
+http://163.172.19.214:8889/play/a04o
+#EXTINF:-1,FOXnews
+http://163.172.19.214:8889/play/a01x
+#EXTINF:-1,KANALS2
+http://163.172.19.214:8889/play/a04e
+#EXTINF:-1, HD Life
+http://193.187.82.250:9998/hdlife
+#EXTINF:-1, Tele Travel HD
+http://193.187.82.250:9998/teletravelhd
+#EXTINF:-1, EDA HD
+http://193.187.82.250:9998/edahd
+#EXTINF:-1, AMEDIA Hit HD
+http://193.187.82.250:9998/amediahithd
+
+

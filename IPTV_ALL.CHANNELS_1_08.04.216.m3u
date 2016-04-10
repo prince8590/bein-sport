@@ -1,0 +1,844 @@
+#EXTM3U
+
+#EXTINF:-1,HRT 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/81.ts
+#EXTINF:-1,HRT 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/82.ts
+#EXTINF:-1,HRT 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/83.ts
+#EXTINF:-1,HRT 4
+http://mygameravatar.zapto.org:43666/live/test1/test2/148.ts
+#EXTINF:-1,RTL HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/85.ts
+#EXTINF:-1,NOVA TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/86.ts
+#EXTINF:-1,RTL 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/87.ts
+#EXTINF:-1,RTL LIVING
+http://mygameravatar.zapto.org:43666/live/test1/test2/212.ts
+#EXTINF:-1,RTL Crime HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/400.ts
+#EXTINF:-1,Doma TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/88.ts
+#EXTINF:-1,CMC
+http://mygameravatar.zapto.org:43666/live/test1/test2/91.ts
+#EXTINF:-1,Vinkovacka TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/556.ts
+#EXTINF:-1,Osjecka TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/558.ts
+#EXTINF:-1,TV Banovina
+http://mygameravatar.zapto.org:43666/live/test1/test2/560.ts
+#EXTINF:-1,Slavonska TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/559.ts
+#EXTINF:-1,Jugoton tv
+http://mygameravatar.zapto.org:43666/live/test1/test2/505.ts
+#EXTINF:-1,RTS HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/251.ts
+#EXTINF:-1,RTS 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/133.ts
+#EXTINF:-1,RTS 1 Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/360.ts
+#EXTINF:-1,RTS 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/134.ts
+#EXTINF:-1,B92
+http://mygameravatar.zapto.org:43666/live/test1/test2/109.ts
+#EXTINF:-1,B92 Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/364.ts
+#EXTINF:-1,B92 Info
+http://mygameravatar.zapto.org:43666/live/test1/test2/518.ts
+#EXTINF:-1,Prva
+http://mygameravatar.zapto.org:43666/live/test1/test2/131.ts
+#EXTINF:-1,Prva TV Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/407.ts
+#EXTINF:-1,Prva Plus
+http://mygameravatar.zapto.org:43666/live/test1/test2/158.ts
+#EXTINF:-1,Happy TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/119.ts
+#EXTINF:-1,HAPPY TV Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/362.ts
+#EXTINF:-1,NOVA RS
+http://mygameravatar.zapto.org:43666/live/test1/test2/378.ts
+#EXTINF:-1,Pink 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/135.ts
+#EXTINF:-1,Pink 1 Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/359.ts
+#EXTINF:-1,Pink 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/267.ts
+#EXTINF:-1,Pink 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/268.ts
+#EXTINF:-1,Pink Plus
+http://mygameravatar.zapto.org:43666/live/test1/test2/250.ts
+#EXTINF:-1,Pink Reality
+http://mygameravatar.zapto.org:43666/live/test1/test2/297.ts
+#EXTINF:-1,Pink Action
+http://mygameravatar.zapto.org:43666/live/test1/test2/136.ts
+#EXTINF:-1,Pink Western
+http://mygameravatar.zapto.org:43666/live/test1/test2/145.ts
+#EXTINF:-1,Pink Zabava
+http://mygameravatar.zapto.org:43666/live/test1/test2/146.ts
+#EXTINF:-1,Pink Horror
+http://mygameravatar.zapto.org:43666/live/test1/test2/143.ts
+#EXTINF:-1,Pink Comedy
+http://mygameravatar.zapto.org:43666/live/test1/test2/139.ts
+#EXTINF:-1,Pink Film
+http://mygameravatar.zapto.org:43666/live/test1/test2/141.ts
+#EXTINF:-1,Pink Movies
+http://mygameravatar.zapto.org:43666/live/test1/test2/382.ts
+#EXTINF:-1,Pink Kids
+http://mygameravatar.zapto.org:43666/live/test1/test2/522.ts
+#EXTINF:-1,Pink Extra
+http://mygameravatar.zapto.org:43666/live/test1/test2/140.ts
+#EXTINF:-1,Pink World
+http://mygameravatar.zapto.org:43666/live/test1/test2/344.ts
+#EXTINF:-1,Pink Thriller
+http://mygameravatar.zapto.org:43666/live/test1/test2/345.ts
+#EXTINF:-1,Pink Soap
+http://mygameravatar.zapto.org:43666/live/test1/test2/343.ts
+#EXTINF:-1,Pink Sci-Fi and Fantasy
+http://mygameravatar.zapto.org:43666/live/test1/test2/341.ts
+#EXTINF:-1,Pink Romance
+http://mygameravatar.zapto.org:43666/live/test1/test2/342.ts
+#EXTINF:-1,Pink Pedia
+http://mygameravatar.zapto.org:43666/live/test1/test2/346.ts
+#EXTINF:-1,Pink Crime and Mistery
+http://mygameravatar.zapto.org:43666/live/test1/test2/340.ts
+#EXTINF:-1,Pink Premium
+http://mygameravatar.zapto.org:43666/live/test1/test2/154.ts
+#EXTINF:-1,Pink Folk 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/142.ts
+#EXTINF:-1,Pink Folk 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/339.ts
+#EXTINF:-1,Pink Music 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/548.ts
+#EXTINF:-1,Pink Music 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/547.ts
+#EXTINF:-1,Pink BH
+http://mygameravatar.zapto.org:43666/live/test1/test2/138.ts
+#EXTINF:-1,Pink Montenegro
+http://mygameravatar.zapto.org:43666/live/test1/test2/144.ts
+#EXTINF:-1,RTCG
+http://mygameravatar.zapto.org:43666/live/test1/test2/152.ts
+#EXTINF:-1,Atlas TV CG
+http://mygameravatar.zapto.org:43666/live/test1/test2/401.ts
+#EXTINF:-1,TV 777 CG
+http://mygameravatar.zapto.org:43666/live/test1/test2/557.ts
+#EXTINF:-1,BHT 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/110.ts
+#EXTINF:-1,Federalna TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/116.ts
+#EXTINF:-1,OBN
+http://mygameravatar.zapto.org:43666/live/test1/test2/129.ts
+#EXTINF:-1,BN
+http://mygameravatar.zapto.org:43666/live/test1/test2/111.ts
+#EXTINF:-1,RTRS
+http://mygameravatar.zapto.org:43666/live/test1/test2/132.ts
+#EXTINF:-1,TV1
+http://mygameravatar.zapto.org:43666/live/test1/test2/153.ts
+#EXTINF:-1,ATV
+http://mygameravatar.zapto.org:43666/live/test1/test2/108.ts
+#EXTINF:-1,Telma
+http://mygameravatar.zapto.org:43666/live/test1/test2/160.ts
+#EXTINF:-1,TV Sarajevo
+http://mygameravatar.zapto.org:43666/live/test1/test2/350.ts
+#EXTINF:-1,TK Tuzla
+http://mygameravatar.zapto.org:43666/live/test1/test2/252.ts
+#EXTINF:-1,RTV Zenica
+http://mygameravatar.zapto.org:43666/live/test1/test2/519.ts
+#EXTINF:-1,MTV Igman
+http://mygameravatar.zapto.org:43666/live/test1/test2/439.ts
+#EXTINF:-1,Otv Valentino
+http://mygameravatar.zapto.org:43666/live/test1/test2/130.ts
+#EXTINF:-1,Face TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/115.ts
+#EXTINF:-1,N 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/126.ts
+#EXTINF:-1,Hayat TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/125.ts
+#EXTINF:-1,HAYAT PLUS
+http://mygameravatar.zapto.org:43666/live/test1/test2/208.ts
+#EXTINF:-1,Hayat Folk
+http://mygameravatar.zapto.org:43666/live/test1/test2/198.ts
+#EXTINF:-1,DM Sat
+http://mygameravatar.zapto.org:43666/live/test1/test2/114.ts
+#EXTINF:-1,Izvorna TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/355.ts
+#EXTINF:-1,KCN 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/529.ts
+#EXTINF:-1,KCN 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/530.ts
+#EXTINF:-1,KCN 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/531.ts
+#EXTINF:-1,Istok TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/571.ts
+#EXTINF:-1,Belle Amie TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/528.ts
+#EXTINF:-1,Best TV Zajecar
+http://mygameravatar.zapto.org:43666/live/test1/test2/453.ts
+#EXTINF:-1,TV Pirot
+http://mygameravatar.zapto.org:43666/live/test1/test2/452.ts
+#EXTINF:-1,RTV Novi Pazar
+http://mygameravatar.zapto.org:43666/live/test1/test2/303.ts
+#EXTINF:-1,Bravo Music
+http://mygameravatar.zapto.org:43666/live/test1/test2/357.ts
+#EXTINF:-1,Grand Narodna TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/118.ts
+#EXTINF:-1,Duga TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/348.ts
+#EXTINF:-1,BN Music
+http://mygameravatar.zapto.org:43666/live/test1/test2/347.ts
+#EXTINF:-1,Balkanika
+http://mygameravatar.zapto.org:43666/live/test1/test2/402.ts
+#EXTINF:-1,MTV Andria
+http://mygameravatar.zapto.org:43666/live/test1/test2/356.ts
+#EXTINF:-1,MTV 1 Macedonia
+http://mygameravatar.zapto.org:43666/live/test1/test2/304.ts
+#EXTINF:-1,MTV 2 Macedonia
+http://mygameravatar.zapto.org:43666/live/test1/test2/305.ts
+#EXTINF:-1,Alfa MK
+http://mygameravatar.zapto.org:43666/live/test1/test2/162.ts
+#EXTINF:-1,Sitel MK
+http://mygameravatar.zapto.org:43666/live/test1/test2/161.ts
+#EXTINF:-1,Shutel TV Macedonia
+http://mygameravatar.zapto.org:43666/live/test1/test2/561.ts
+#EXTINF:-1,Kanal 5 Plus MK
+http://mygameravatar.zapto.org:43666/live/test1/test2/307.ts
+#EXTINF:-1,Kanal 5 MK
+http://mygameravatar.zapto.org:43666/live/test1/test2/306.ts
+#EXTINF:-1,A1 BALKAN
+http://mygameravatar.zapto.org:43666/live/test1/test2/210.ts
+#EXTINF:-1,Minimax
+http://mygameravatar.zapto.org:43666/live/test1/test2/124.ts
+#EXTINF:-1,Mini Tv
+http://mygameravatar.zapto.org:43666/live/test1/test2/123.ts
+#EXTINF:-1,RTL Kockica
+http://mygameravatar.zapto.org:43666/live/test1/test2/90.ts
+#EXTINF:-1,NICKELODEON
+http://mygameravatar.zapto.org:43666/live/test1/test2/229.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC-hr
+http://mygameravatar.zapto.org:43666/live/test1/test2/232.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://mygameravatar.zapto.org:43666/live/test1/test2/231.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://mygameravatar.zapto.org:43666/live/test1/test2/358.ts
+#EXTINF:-1,ANIMAL PLANET
+http://mygameravatar.zapto.org:43666/live/test1/test2/230.ts
+#EXTINF:-1,LOV I RIBOLOV
+http://mygameravatar.zapto.org:43666/live/test1/test2/94.ts
+#EXTINF:-1,FOX TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/351.ts
+#EXTINF:-1,FOX Crime HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/349.ts
+#EXTINF:-1,FOX MOVIES
+http://mygameravatar.zapto.org:43666/live/test1/test2/222.ts
+#EXTINF:-1,FOX Life
+http://mygameravatar.zapto.org:43666/live/test1/test2/117.ts
+#EXTINF:-1,CineStar Premiere 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/112.ts
+#EXTINF:-1,CineStar Premiere 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/197.ts
+#EXTINF:-1,HBO ADRIA
+http://mygameravatar.zapto.org:43666/live/test1/test2/92.ts
+#EXTINF:-1,HBO COMEDY
+http://mygameravatar.zapto.org:43666/live/test1/test2/93.ts
+#EXTINF:-1,Klasik TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/105.ts
+#EXTINF:-1,Al Jazeera
+http://mygameravatar.zapto.org:43666/live/test1/test2/107.ts
+#EXTINF:-1,24Kitchen
+http://mygameravatar.zapto.org:43666/live/test1/test2/106.ts
+#EXTINF:-1,SOS kanal
+http://mygameravatar.zapto.org:43666/live/test1/test2/266.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/95.ts
+#EXTINF:-1,ARENA SPORT 1 SRB
+http://mygameravatar.zapto.org:43666/live/test1/test2/96.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/97.ts
+#EXTINF:-1,ARENA SPORT 2 SRB
+http://mygameravatar.zapto.org:43666/live/test1/test2/98.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/99.ts
+#EXTINF:-1,ARENA SPORT 3 SRB
+http://mygameravatar.zapto.org:43666/live/test1/test2/100.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/101.ts
+#EXTINF:-1,ARENA SPORT 4 SRB
+http://mygameravatar.zapto.org:43666/live/test1/test2/102.ts
+#EXTINF:-1,ARENA SPORT 5 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/103.ts
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://mygameravatar.zapto.org:43666/live/test1/test2/255.ts
+#EXTINF:-1,Sportklub 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/149.ts
+#EXTINF:-1,Sportklub 1 Sr Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/551.ts
+#EXTINF:-1,Sportklub 1 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/371.ts
+#EXTINF:-1,Sportklub 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/150.ts
+#EXTINF:-1,Sportklub 2 Sr Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/550.ts
+#EXTINF:-1,Sportklub 2 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/372.ts
+#EXTINF:-1,Sportklub 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/151.ts
+#EXTINF:-1,Sportklub 3 Sr Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/552.ts
+#EXTINF:-1,Sportklub 3 HR
+http://mygameravatar.zapto.org:43666/live/test1/test2/373.ts
+#EXTINF:-1,Sportska TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/353.ts
+#EXTINF:-1,Eurosport 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/121.ts
+#EXTINF:-1,Eurosport 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/120.ts
+#EXTINF:-1,SuperSport 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/6.ts
+#EXTINF:-1,SuperSport 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/7.ts
+#EXTINF:-1,SuperSport 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/8.ts
+#EXTINF:-1,SuperSport 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/9.ts
+#EXTINF:-1,SuperSport 5 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/533.ts
+#EXTINF:-1,SuperSport 6 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/534.ts
+#EXTINF:-1,SuperSport Kosova 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/21.ts
+#EXTINF:-1,SuperSport Kosova 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/256.ts
+#EXTINF:-1,TRING SPORT NEWS
+http://mygameravatar.zapto.org:43666/live/test1/test2/374.ts
+#EXTINF:-1,TRING SPORT 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/333.ts
+#EXTINF:-1,TRING SPORT 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/334.ts
+#EXTINF:-1,TRING SPORT 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/335.ts
+#EXTINF:-1,TRING SPORT 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/336.ts
+#EXTINF:-1,Top News
+http://mygameravatar.zapto.org:43666/live/test1/test2/51.ts
+#EXTINF:-1,Top Channel HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/52.ts
+#EXTINF:-1,TOP CHANNEL HD BACKUP
+http://mygameravatar.zapto.org:43666/live/test1/test2/393.ts
+#EXTINF:-1,Top channels HD backup 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/520.ts
+#EXTINF:-1,T Stinet
+http://mygameravatar.zapto.org:43666/live/test1/test2/53.ts
+#EXTINF:-1,T Channel HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/54.ts
+#EXTINF:-1,SuperSonic TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/22.ts
+#EXTINF:-1,RTV 21
+http://mygameravatar.zapto.org:43666/live/test1/test2/38.ts
+#EXTINF:-1,21 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/36.ts
+#EXTINF:-1,RTV 21 Plus HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/532.ts
+#EXTINF:-1,RTV 21 M
+http://mygameravatar.zapto.org:43666/live/test1/test2/539.ts
+#EXTINF:-1,RTV 21 Popullore
+http://mygameravatar.zapto.org:43666/live/test1/test2/41.ts
+#EXTINF:-1,RTV 21 Popullore Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/361.ts
+#EXTINF:-1,TVSH
+http://mygameravatar.zapto.org:43666/live/test1/test2/48.ts
+#EXTINF:-1,RTK
+http://mygameravatar.zapto.org:43666/live/test1/test2/39.ts
+#EXTINF:-1,RTK Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/370.ts
+#EXTINF:-1,RTK 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/441.ts
+#EXTINF:-1,RTK 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/442.ts
+#EXTINF:-1,RTK 4
+http://mygameravatar.zapto.org:43666/live/test1/test2/443.ts
+#EXTINF:-1,News 24
+http://mygameravatar.zapto.org:43666/live/test1/test2/12.ts
+#EXTINF:-1,ORA News HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/517.ts
+#EXTINF:-1,Klan Kosova
+http://mygameravatar.zapto.org:43666/live/test1/test2/13.ts
+#EXTINF:-1,TV Opoja
+http://mygameravatar.zapto.org:43666/live/test1/test2/308.ts
+#EXTINF:-1,Jug TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/542.ts
+#EXTINF:-1,Elbasani TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/541.ts
+#EXTINF:-1,Apollon TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/540.ts
+#EXTINF:-1,RTV Shari
+http://mygameravatar.zapto.org:43666/live/test1/test2/309.ts
+#EXTINF:-1,Zjarr HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/369.ts
+#EXTINF:-1,Rrrokum TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/310.ts
+#EXTINF:-1,Klan HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/24.ts
+#EXTINF:-1,Klan HD Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/521.ts
+#EXTINF:-1,Fox Crime
+http://mygameravatar.zapto.org:43666/live/test1/test2/25.ts
+#EXTINF:-1,Film Thriller
+http://mygameravatar.zapto.org:43666/live/test1/test2/15.ts
+#EXTINF:-1,Film Nje HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/27.ts
+#EXTINF:-1,Film Komedi
+http://mygameravatar.zapto.org:43666/live/test1/test2/28.ts
+#EXTINF:-1,Film Hits
+http://mygameravatar.zapto.org:43666/live/test1/test2/30.ts
+#EXTINF:-1,Film Dy HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/31.ts
+#EXTINF:-1,Film Drame
+http://mygameravatar.zapto.org:43666/live/test1/test2/16.ts
+#EXTINF:-1,Film Autor
+http://mygameravatar.zapto.org:43666/live/test1/test2/32.ts
+#EXTINF:-1,Film Aksion
+http://mygameravatar.zapto.org:43666/live/test1/test2/33.ts
+#EXTINF:-1,Explorer Shkenc?«
+http://mygameravatar.zapto.org:43666/live/test1/test2/17.ts
+#EXTINF:-1,Explorer Natyra
+http://mygameravatar.zapto.org:43666/live/test1/test2/18.ts
+#EXTINF:-1,Explorer History
+http://mygameravatar.zapto.org:43666/live/test1/test2/19.ts
+#EXTINF:-1,Digi Gold PPV
+http://mygameravatar.zapto.org:43666/live/test1/test2/34.ts
+#EXTINF:-1,Film Gold 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/535.ts
+#EXTINF:-1,Film Gold 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/536.ts
+#EXTINF:-1,Film Gold 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/537.ts
+#EXTINF:-1,Film Gold 4
+http://mygameravatar.zapto.org:43666/live/test1/test2/538.ts
+#EXTINF:-1,Kino Premiere 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/513.ts
+#EXTINF:-1,Cufo
+http://mygameravatar.zapto.org:43666/live/test1/test2/20.ts
+#EXTINF:-1,BBF Music
+http://mygameravatar.zapto.org:43666/live/test1/test2/35.ts
+#EXTINF:-1,BBF
+http://mygameravatar.zapto.org:43666/live/test1/test2/44.ts
+#EXTINF:-1,FolkLorit
+http://mygameravatar.zapto.org:43666/live/test1/test2/14.ts
+#EXTINF:-1,STV Folk
+http://mygameravatar.zapto.org:43666/live/test1/test2/338.ts
+#EXTINF:-1,Albania Muzic
+http://mygameravatar.zapto.org:43666/live/test1/test2/337.ts
+#EXTINF:-1,TV Dukagjini
+http://mygameravatar.zapto.org:43666/live/test1/test2/366.ts
+#EXTINF:-1,TV Mitrovica
+http://mygameravatar.zapto.org:43666/live/test1/test2/377.ts
+#EXTINF:-1,RTV Presheva
+http://mygameravatar.zapto.org:43666/live/test1/test2/376.ts
+#EXTINF:-1,RTV Bujanovac
+http://mygameravatar.zapto.org:43666/live/test1/test2/375.ts
+#EXTINF:-1,First TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/365.ts
+#EXTINF:-1,Dasma TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/367.ts
+#EXTINF:-1,Cameria TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/368.ts
+#EXTINF:-1,Alsat M
+http://mygameravatar.zapto.org:43666/live/test1/test2/46.ts
+#EXTINF:-1,Alsat M Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/506.ts
+#EXTINF:-1,ABC News
+http://mygameravatar.zapto.org:43666/live/test1/test2/47.ts
+#EXTINF:-1,Shenja TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/515.ts
+#EXTINF:-1,Click TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/516.ts
+#EXTINF:-1,City TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/514.ts
+#EXTINF:-1,Tring World
+http://mygameravatar.zapto.org:43666/live/test1/test2/58.ts
+#EXTINF:-1,Tring Vizion Plus
+http://mygameravatar.zapto.org:43666/live/test1/test2/59.ts
+#EXTINF:-1,Tring Vizion Plus Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/465.ts
+#EXTINF:-1,Tring Tring
+http://mygameravatar.zapto.org:43666/live/test1/test2/60.ts
+#EXTINF:-1,Tring Tirana TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/61.ts
+#EXTINF:-1,Tring Super
+http://mygameravatar.zapto.org:43666/live/test1/test2/63.ts
+#EXTINF:-1,Tring Shqip
+http://mygameravatar.zapto.org:43666/live/test1/test2/64.ts
+#EXTINF:-1,Tring Planet
+http://mygameravatar.zapto.org:43666/live/test1/test2/56.ts
+#EXTINF:-1,Tring Max
+http://mygameravatar.zapto.org:43666/live/test1/test2/66.ts
+#EXTINF:-1,Tring Life
+http://mygameravatar.zapto.org:43666/live/test1/test2/67.ts
+#EXTINF:-1,Tring KTV
+http://mygameravatar.zapto.org:43666/live/test1/test2/68.ts
+#EXTINF:-1,Tring KTV Backup
+http://mygameravatar.zapto.org:43666/live/test1/test2/363.ts
+#EXTINF:-1,Tring Junior TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/69.ts
+#EXTINF:-1,Tring Jolly HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/70.ts
+#EXTINF:-1,Tring History
+http://mygameravatar.zapto.org:43666/live/test1/test2/71.ts
+#EXTINF:-1,Tring Folk Plus
+http://mygameravatar.zapto.org:43666/live/test1/test2/72.ts
+#EXTINF:-1,Tring Fantasy
+http://mygameravatar.zapto.org:43666/live/test1/test2/73.ts
+#EXTINF:-1,Tring Era TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/74.ts
+#EXTINF:-1,Tring Comedy
+http://mygameravatar.zapto.org:43666/live/test1/test2/37.ts
+#EXTINF:-1,Tring Bang Bang
+http://mygameravatar.zapto.org:43666/live/test1/test2/75.ts
+#EXTINF:-1,Tring 3 Plus
+http://mygameravatar.zapto.org:43666/live/test1/test2/77.ts
+#EXTINF:-1,DE-ARD
+http://mygameravatar.zapto.org:43666/live/test1/test2/172.ts
+#EXTINF:-1,ZDF
+http://mygameravatar.zapto.org:43666/live/test1/test2/383.ts
+#EXTINF:-1,3sat
+http://mygameravatar.zapto.org:43666/live/test1/test2/332.ts
+#EXTINF:-1,RTL HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/261.ts
+#EXTINF:-1,RTL 2 Germany
+http://mygameravatar.zapto.org:43666/live/test1/test2/299.ts
+#EXTINF:-1,DE-VOX
+http://mygameravatar.zapto.org:43666/live/test1/test2/175.ts
+#EXTINF:-1,DE-SuperRTL
+http://mygameravatar.zapto.org:43666/live/test1/test2/174.ts
+#EXTINF:-1,Pro 7 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/298.ts
+#EXTINF:-1,KIKA
+http://mygameravatar.zapto.org:43666/live/test1/test2/384.ts
+#EXTINF:-1,Disney Channel DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/523.ts
+#EXTINF:-1,Prosieben Maxx
+http://mygameravatar.zapto.org:43666/live/test1/test2/526.ts
+#EXTINF:-1,RTL Nitro
+http://mygameravatar.zapto.org:43666/live/test1/test2/527.ts
+#EXTINF:-1,HR HD DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/524.ts
+#EXTINF:-1,Eins Plus HD DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/525.ts
+#EXTINF:-1,N24 Deutchland
+http://mygameravatar.zapto.org:43666/live/test1/test2/398.ts
+#EXTINF:-1,Munchen TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/461.ts
+#EXTINF:-1,SRF 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/459.ts
+#EXTINF:-1,SRF 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/460.ts
+#EXTINF:-1,ORF 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/243.ts
+#EXTINF:-1,ORF 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/244.ts
+#EXTINF:-1,Sky Sport 1 DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/195.ts
+#EXTINF:-1,SKY SPORT1HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/163.ts
+#EXTINF:-1,Sky Sport 2 DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/194.ts
+#EXTINF:-1,SKY SPORT2HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/216.ts
+#EXTINF:-1,SportDigital HD DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/468.ts
+#EXTINF:-1,Sky BundesLiga HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/193.ts
+#EXTINF:-1,Sky Sport News DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/462.ts
+#EXTINF:-1,Sky Sport Austria
+http://mygameravatar.zapto.org:43666/live/test1/test2/512.ts
+#EXTINF:-1,Teleclub Sport 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/507.ts
+#EXTINF:-1,Teleclub Prime
+http://mygameravatar.zapto.org:43666/live/test1/test2/510.ts
+#EXTINF:-1,Teleclub Cinema
+http://mygameravatar.zapto.org:43666/live/test1/test2/511.ts
+#EXTINF:-1,Teleclub STar
+http://mygameravatar.zapto.org:43666/live/test1/test2/568.ts
+#EXTINF:-1,Tele Basel
+http://mygameravatar.zapto.org:43666/live/test1/test2/570.ts
+#EXTINF:-1,Tele Barn
+http://mygameravatar.zapto.org:43666/live/test1/test2/569.ts
+#EXTINF:-1,Sky Cinema DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/391.ts
+#EXTINF:-1,Sky Cinema +1 DE
+http://mygameravatar.zapto.org:43666/live/test1/test2/392.ts
+#EXTINF:-1,DE-SkyAtlanticHD
+http://mygameravatar.zapto.org:43666/live/test1/test2/167.ts
+#EXTINF:-1,Sky Krimi
+http://mygameravatar.zapto.org:43666/live/test1/test2/464.ts
+#EXTINF:-1,SKY DMAX
+http://mygameravatar.zapto.org:43666/live/test1/test2/385.ts
+#EXTINF:-1,SKY COMEDY HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/219.ts
+#EXTINF:-1,SKY EMOTION HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/224.ts
+#EXTINF:-1,SKY DISCOVERY HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/226.ts
+#EXTINF:-1,SKY NAT.GEO HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/227.ts
+#EXTINF:-1,SKY 13 STREET HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/223.ts
+#EXTINF:-1,DE-SkyTNTSerieHD
+http://mygameravatar.zapto.org:43666/live/test1/test2/170.ts
+#EXTINF:-1,SKY FOX HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/228.ts
+#EXTINF:-1,DE-SkyCinema+24 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/166.ts
+#EXTINF:-1,DE-SkyAction HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/169.ts
+#EXTINF:-1,Sky Hits HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/328.ts
+#EXTINF:-1,Sky History HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/329.ts
+#EXTINF:-1,Sky Select 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/188.ts
+#EXTINF:-1,Sky Select 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/187.ts
+#EXTINF:-1,Sky Select 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/257.ts
+#EXTINF:-1,Sky Select 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/258.ts
+#EXTINF:-1,Sky Select 5 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/259.ts
+#EXTINF:-1,RAI 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/421.ts
+#EXTINF:-1,RAI 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/422.ts
+#EXTINF:-1,RAI 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/423.ts
+#EXTINF:-1,Sky Uno HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/488.ts
+#EXTINF:-1,Sky TG 24
+http://mygameravatar.zapto.org:43666/live/test1/test2/480.ts
+#EXTINF:-1,Italia 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/554.ts
+#EXTINF:-1,Rete 4
+http://mygameravatar.zapto.org:43666/live/test1/test2/555.ts
+#EXTINF:-1,Canale 5
+http://mygameravatar.zapto.org:43666/live/test1/test2/553.ts
+#EXTINF:-1,SKY SPORT 1 HD ITALY
+http://mygameravatar.zapto.org:43666/live/test1/test2/426.ts
+#EXTINF:-1,SKY SPORT 2 HD IYALY
+http://mygameravatar.zapto.org:43666/live/test1/test2/427.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/445.ts
+#EXTINF:-1,SKY SuperCalcio HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/409.ts
+#EXTINF:-1,Sky Sport 24 HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/411.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/483.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/481.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/482.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/484.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/485.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/486.ts
+#EXTINF:-1,PREMIUM CALCIO 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/429.ts
+#EXTINF:-1,PREMIUM CALCIO 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/430.ts
+#EXTINF:-1,Premium Sport HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/444.ts
+#EXTINF:-1,SportItalia
+http://mygameravatar.zapto.org:43666/live/test1/test2/504.ts
+#EXTINF:-1,Super Tennis HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/502.ts
+#EXTINF:-1,Primafila 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/454.ts
+#EXTINF:-1,Primafila 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/455.ts
+#EXTINF:-1,Primafila 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/456.ts
+#EXTINF:-1,Primafila 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/457.ts
+#EXTINF:-1,Primafila 5 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/458.ts
+#EXTINF:-1,Primafila 6 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/499.ts
+#EXTINF:-1,Primafila 7 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/500.ts
+#EXTINF:-1,Primafila 8 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/501.ts
+#EXTINF:-1,SKY Cinema 1 HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/412.ts
+#EXTINF:-1,SKY Cinema Max IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/408.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/491.ts
+#EXTINF:-1,Sky Cinema Family HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/490.ts
+#EXTINF:-1,Sky Cinema Classic HD IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/494.ts
+#EXTINF:-1,Sky Cinema Cult HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/503.ts
+#EXTINF:-1,Sky Atlantic HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/418.ts
+#EXTINF:-1,Discovery HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/410.ts
+#EXTINF:-1,Sky Cinema 24 HD IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/493.ts
+#EXTINF:-1,Sky Discovery HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/495.ts
+#EXTINF:-1,Sky Discovery Science HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/497.ts
+#EXTINF:-1,Sky Nat Geo HD It
+http://mygameravatar.zapto.org:43666/live/test1/test2/496.ts
+#EXTINF:-1,Sky Nat Geo Wild IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/498.ts
+#EXTINF:-1,SKY ARTE HD IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/487.ts
+#EXTINF:-1,FOX Life HD Italy
+http://mygameravatar.zapto.org:43666/live/test1/test2/417.ts
+#EXTINF:-1,Fox Crime HD IT
+http://mygameravatar.zapto.org:43666/live/test1/test2/489.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/287.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/282.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/283.ts
+#EXTINF:-1,TF 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/272.ts
+#EXTINF:-1,M6 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/273.ts
+#EXTINF:-1,Arte HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/294.ts
+#EXTINF:-1,La Une HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/295.ts
+#EXTINF:-1,La Deux HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/296.ts
+#EXTINF:-1,RTL TVI HD Belgium
+http://mygameravatar.zapto.org:43666/live/test1/test2/565.ts
+#EXTINF:-1,Plug RTL Belgium
+http://mygameravatar.zapto.org:43666/live/test1/test2/566.ts
+#EXTINF:-1,Club RTL Belgium
+http://mygameravatar.zapto.org:43666/live/test1/test2/567.ts
+#EXTINF:-1,Disney Junior HD 3D
+http://mygameravatar.zapto.org:43666/live/test1/test2/292.ts
+#EXTINF:-1,Canal Plus Series HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/293.ts
+#EXTINF:-1,Cine Plus Frisson HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/280.ts
+#EXTINF:-1,Canal Plus Cinema HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/278.ts
+#EXTINF:-1,Canal Plus Sport HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/277.ts
+#EXTINF:-1,Canal Plus Premier HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/276.ts
+#EXTINF:-1,Canal Plus Emotion HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/275.ts
+#EXTINF:-1,TRT HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/313.ts
+#EXTINF:-1,NTV Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/314.ts
+#EXTINF:-1,CNN Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/311.ts
+#EXTINF:-1,Kanal D
+http://mygameravatar.zapto.org:43666/live/test1/test2/324.ts
+#EXTINF:-1,Dream TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/326.ts
+#EXTINF:-1,Star TV
+http://mygameravatar.zapto.org:43666/live/test1/test2/352.ts
+#EXTINF:-1,TRT Muzic
+http://mygameravatar.zapto.org:43666/live/test1/test2/563.ts
+#EXTINF:-1,Kral TV Turkey
+http://mygameravatar.zapto.org:43666/live/test1/test2/562.ts
+#EXTINF:-1,Dream Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/325.ts
+#EXTINF:-1,Show TV HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/316.ts
+#EXTINF:-1,KANAL 7 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/317.ts
+#EXTINF:-1,Fox Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/315.ts
+#EXTINF:-1,ATV Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/312.ts
+#EXTINF:-1,Salon 1
+http://mygameravatar.zapto.org:43666/live/test1/test2/319.ts
+#EXTINF:-1,Salon 2
+http://mygameravatar.zapto.org:43666/live/test1/test2/320.ts
+#EXTINF:-1,Salon 3
+http://mygameravatar.zapto.org:43666/live/test1/test2/321.ts
+#EXTINF:-1,NTV Sport Turk
+http://mygameravatar.zapto.org:43666/live/test1/test2/318.ts
+#EXTINF:-1,Turk Sports
+http://mygameravatar.zapto.org:43666/live/test1/test2/322.ts
+#EXTINF:-1,LIG TV 1 HD Turkey
+http://mygameravatar.zapto.org:43666/live/test1/test2/300.ts
+#EXTINF:-1,LIG TV 2 HD Turkey
+http://mygameravatar.zapto.org:43666/live/test1/test2/301.ts
+#EXTINF:-1,LIG TV 3 HD Turkey
+http://mygameravatar.zapto.org:43666/live/test1/test2/302.ts
+#EXTINF:-1,Sky sports 1 uk
+http://mygameravatar.zapto.org:43666/live/test1/test2/394.ts
+#EXTINF:-1,Sky sports 2 uk
+http://mygameravatar.zapto.org:43666/live/test1/test2/395.ts
+#EXTINF:-1,Sky sports 3 uk
+http://mygameravatar.zapto.org:43666/live/test1/test2/396.ts
+#EXTINF:-1,Sky sports 4 uk
+http://mygameravatar.zapto.org:43666/live/test1/test2/397.ts
+#EXTINF:-1,Teledeporte ES
+http://mygameravatar.zapto.org:43666/live/test1/test2/575.ts
+#EXTINF:-1,Canal + Liga ES
+http://mygameravatar.zapto.org:43666/live/test1/test2/574.ts
+#EXTINF:-1,Canal + Futbol ES
+http://mygameravatar.zapto.org:43666/live/test1/test2/572.ts
+#EXTINF:-1,Canal + Deportes ES
+http://mygameravatar.zapto.org:43666/live/test1/test2/573.ts
+#EXTINF:-1,Fox Sports 1 HD USA
+http://mygameravatar.zapto.org:43666/live/test1/test2/576.ts
+#EXTINF:-1,Tsn Sports 1 USA
+http://mygameravatar.zapto.org:43666/live/test1/test2/577.ts
+#EXTINF:-1,TSN Sports 2 USA
+http://mygameravatar.zapto.org:43666/live/test1/test2/578.ts
+#EXTINF:-1,Tsn Sports 3 USA
+http://mygameravatar.zapto.org:43666/live/test1/test2/579.ts
+#EXTINF:-1,Tsn Sports 4 USA
+http://mygameravatar.zapto.org:43666/live/test1/test2/580.ts
+#EXTINF:-1,BT Sport 1 UK
+http://mygameravatar.zapto.org:43666/live/test1/test2/466.ts
+#EXTINF:-1,BT Sport 2 UK
+http://mygameravatar.zapto.org:43666/live/test1/test2/467.ts
+#EXTINF:-1,Sky Sport F1
+http://mygameravatar.zapto.org:43666/live/test1/test2/178.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/177.ts
+#EXTINF:-1,Sport TV 1 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/543.ts
+#EXTINF:-1,Sport TV 2 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/544.ts
+#EXTINF:-1,Sport TV 3 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/545.ts
+#EXTINF:-1,Sport TV 4 HD
+http://mygameravatar.zapto.org:43666/live/test1/test2/546.ts
+#EXTINF:-1,TV 4
+http://mygameravatar.zapto.org:43666/live/test1/test2/473.ts
+#EXTINF:-1,TV 6
+http://mygameravatar.zapto.org:43666/live/test1/test2/477.ts
+#EXTINF:-1,TV 8
+http://mygameravatar.zapto.org:43666/live/test1/test2/474.ts
+#EXTINF:-1,SVT 24/B
+http://mygameravatar.zapto.org:43666/live/test1/test2/478.ts
+#EXTINF:-1,C More First
+http://mygameravatar.zapto.org:43666/live/test1/test2/476.ts
+#EXTINF:-1,C More Hits
+http://mygameravatar.zapto.org:43666/live/test1/test2/475.ts
+#EXTINF:-1,C More Sport
+http://mygameravatar.zapto.org:43666/live/test1/test2/434.ts
+#EXTINF:-1,C More Action
+http://mygameravatar.zapto.org:43666/live/test1/test2/433.ts
+#EXTINF:-1,Viasat Sport
+http://mygameravatar.zapto.org:43666/live/test1/test2/436.ts
+#EXTINF:-1,Viasat Film
+http://mygameravatar.zapto.org:43666/live/test1/test2/437.ts

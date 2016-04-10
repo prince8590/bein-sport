@@ -1,0 +1,24 @@
+#EXTM3U
+ 
+#EXTINF:-1,BE-Tvl
+http://camerta.com:8000/live/44908/44908/2137.ts
+#EXTINF:-1,BE-RTBF
+http://camerta.com:8000/live/44908/44908/2135.ts
+#EXTINF:-1,BE-Rtl_Tvi
+http://camerta.com:8000/live/44908/44908/1090.ts
+#EXTINF:-1,Be-LA_TROIS
+http://camerta.com:8000/live/44908/44908/695.ts
+#EXTINF:-1,BE-La_UneHD
+http://camerta.com:8000/live/44908/44908/1312.ts
+#EXTINF:-1,BE-club_Rtl
+http://camerta.com:8000/live/44908/44908/1313.ts
+#EXTINF:-1,BE-TELE_MB
+http://camerta.com:8000/live/44908/44908/1878.ts
+#EXTINF:-1,RF-Rock _Tv-HD
+http://camerta.com:8000/live/44908/44908/760.ts
+#EXTINF:-1,FR-Best-Music_HD
+http://camerta.com:8000/live/44908/44908/676.ts
+#EXTINF:-1,FR--Party_ESKA-HD
+http://camerta.com:8000/live/44908/44908/692.ts
+#EXTINF:-1,Fr-VOX Music HD
+http://camerta.com:8000/live/44908/44908/758.ts

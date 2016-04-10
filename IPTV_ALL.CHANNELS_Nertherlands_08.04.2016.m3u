@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,NL-BVN_europe
+http://camerta.com:8000/live/44908/44908/2068.ts
+#EXTINF:-1,NL-RTV_Drenthe
+http://camerta.com:8000/live/44908/44908/1930.ts
+#EXTINF:-1,NL-Omroep_Zeeland
+http://camerta.com:8000/live/44908/44908/1931.ts
+#EXTINF:-1,NL-L1_TV
+http://camerta.com:8000/live/44908/44908/1932.ts
+#EXTINF:-1,NL:Film1.Sundance
+http://camerta.com:8000/live/44908/44908/2037.ts
+#EXTINF:-1,NL:13th.Street
+http://camerta.com:8000/live/44908/44908/2036.ts
+#EXTINF:-1,NL:NPO1HD
+http://camerta.com:8000/live/44908/44908/1513.ts
+#EXTINF:-1,NL:NPO2HD
+http://camerta.com:8000/live/44908/44908/1512.ts
+#EXTINF:-1,NL:NPO3HD
+http://camerta.com:8000/live/44908/44908/1511.ts
+#EXTINF:-1,NL:Sport1_Votbal_HD
+http://camerta.com:8000/live/44908/44908/1505.ts
+#EXTINF:-1,NL:SB 6 HD
+http://camerta.com:8000/live/44908/44908/1506.ts
+#EXTINF:-1,NL:RTVDrentheHD
+http://camerta.com:8000/live/44908/44908/1507.ts
+#EXTINF:-1,NL:RTL7HD
+http://camerta.com:8000/live/44908/44908/1508.ts
+#EXTINF:-1,NL:NET5_HD
+http://camerta.com:8000/live/44908/44908/1509.ts
+#EXTINF:-1,NL:RTL4HD
+http://camerta.com:8000/live/44908/44908/1510.ts
+#EXTINF:-1,NL:HBOHD
+http://camerta.com:8000/live/44908/44908/1514.ts
+#EXTINF:-1,NL-Discovey
+http://camerta.com:8000/live/44908/44908/1515.ts
+#EXTINF:-1,NL:Fox Life
+http://camerta.com:8000/live/44908/44908/1516.ts
+#EXTINF:-1,NL: Zigo_Racing
+http://camerta.com:8000/live/44908/44908/1517.ts
+#EXTINF:-1,NL:WOS
+http://camerta.com:8000/live/44908/44908/1518.ts
+#EXTINF:-1,NL: RTL 8
+http://camerta.com:8000/live/44908/44908/1519.ts
+#EXTINF:-1,NL: Fox Sport 3
+http://camerta.com:8000/live/44908/44908/1520.ts
+#EXTINF:-1,NL: Fox Sport 2
+http://camerta.com:8000/live/44908/44908/1521.ts
+#EXTINF:-1,NL: Fox Sport 1
+http://camerta.com:8000/live/44908/44908/1522.ts
+#EXTINF:-1,NL: Film1 Spotlight
+http://camerta.com:8000/live/44908/44908/1523.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://camerta.com:8000/live/44908/44908/1524.ts
+#EXTINF:-1,NL:DISNEY-CHANNEL
+http://camerta.com:8000/live/44908/44908/1525.ts
